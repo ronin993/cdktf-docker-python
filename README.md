@@ -11,7 +11,7 @@ In order to use CDKTF, you need:
 
 To follow the quickstart, you also need:
 - Docker.
-- a recent version of the programming language prefer.
+- Python v3.7 and pipenv v2021.5.29.
 <br />
 
 ## Commands:
