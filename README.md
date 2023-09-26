@@ -15,29 +15,29 @@ To follow the quickstart, you also need:
 <br />
 
 ## Commands:
-###Compile:
+### Compile:
 
 ```pipenv run ./main.py``` Compile and run the python code.
 
-###Synthesize:
+### Synthesize:
 
 ```cdktf synth [stack]``` Synthesize Terraform resources to cdktf.out/
 
-###Diff:
+### Diff:
 
 ```cdktf diff [stack]``` Perform a diff (terraform plan) for the given stack
 
-###Deploy:
+### Deploy:
 
 ```cdktf deploy [stack]```  Deploy the given stack
 
-###Destroy:
+### Destroy:
 
 ```cdktf destroy [stack]``` Destroy the given stack
 
 - Learn more about using modules and providers https://cdk.tf/modules-and-providers
 
-###Use Providers:
+### Use Providers:
 
   You can add prebuilt providers (if available) or locally generated ones using the add command:
   
